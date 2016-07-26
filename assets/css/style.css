@@ -447,7 +447,7 @@ Template backgrounds
   overflow: hidden;
 }
 .hero-fullscreen.hero_one {
-  background-image: url(../images/bg1.jpg);
+  background-image: url("../images/bg1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0% 0%;
