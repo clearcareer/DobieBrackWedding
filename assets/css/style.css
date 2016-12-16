@@ -107,6 +107,21 @@ h6 {
   margin: 0px;
 }
 
+
+/*.rsvp {
+  border: 1px solid white;
+  font-weight: bold;
+}
+
+.rsvp a {
+  font-weight: bold;
+  margin: 0 15px;
+}*/
+
+.navbar-default.transparent .rsvp  {
+    color: #777;
+}
+
 /***spaces**/
 .space-10 {
   width: 100%;
@@ -752,3 +767,17 @@ div#getting-married {
     line-height: 40px;
   }
 }
+
+button {
+    border-radius: 3px;
+    border: 1px solid #777;
+    padding: 9px 60px;
+    background: none;
+    color: #777;
+}
+
+button:hover{
+    background-color: #777;
+    color: #fff;
+}
+
